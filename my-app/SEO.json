@@ -1,0 +1,35 @@
+{
+    "title": "Example Title2",
+    "description": "Example Description2",
+    "keywords": "Example Keywords2",
+    "author": "Example Author2",
+    "openGraph": {
+        "url": "https://example.com2",
+        "title": "Example Title2",
+        "description": "Example Description2",
+        "image": "https://example.com/image.jpg2",
+        "site_name": "Example Site Name2",
+        "type": "website2",
+        "locale": "it_IT2"
+    },
+    "twitter": {
+        "image": "https://example.com/image.jpg2",
+        "url": "https://example.com2",
+        "card": "summary_large_image2",
+        "title": "Example Title2",
+        "description": "Example Description2"
+    },
+    "favicon": null,
+    "manifest": null,
+    "icons": [{
+            "src": "https://example.com/icon-1922.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://example.com/icon-5122.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
